@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Balls</string>
+    <string name="btn_start_menu">Start</string>
+    <string name="btn_start_records">Results</string>
+    <string name="btn_start_settings">Settings</string>
+    <string name="btn_start_exit">Exit</string>
+</resources>
